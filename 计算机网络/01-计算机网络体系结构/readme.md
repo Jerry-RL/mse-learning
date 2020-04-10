@@ -97,7 +97,77 @@ Each layer has a unique function
 ### The OSI Reference Model
 
 ## TCP/IP
+### The TCP/IP Model
++ The U.S Department of Defense(DoD) created the TCP/IP reference model
++ The DoD wants its packets to get through every time,under any conditions, from any one point to any other point
++ It brought about the creation of the TCP/IP model
++ TCP/IP model has since become the standard on which the Internet has grown
+
+### The TCP/IP Model
+* The TCP/IP model has only four years
+
+```
+Application
+Transport
+Internet
+Network Access
+```
+
+### The TCP/IP Model - pplication Layer
++ Handles high-level protocols, issues of represenetation, encoding, and session control
++ TCP/IP combines all application-related issues into one layer,and assures this data is properly packaged fir the next layer
+
+### The TCP/IP Model - Transport Layer
+
+### The TCP/IP Model - Internet Layer
+
+### The TCP/IP Model - Network Access Layer
+
+### Common TCP/IP Protocals
+
+### Similarities of TCP/IP and OSI
+
+### Differences of TCP/IP and OSI
+
 
 ## Network Topology
+### Topology
 
+### Network Topologies
++ Bus
++ Ring
++ Star
++ Extened Star
++ Hierarchical
++ Mesh
 ## Network Devices
+
+### LAN Devices in a Topology
+
+### LAN Devices in a Topology
+
+### NICs - Layer 2
+
+### Media - Layer 1
+
+### Repeaters - Layer 1
+
+### Hubs - Layer 1
+
+### Repeaters/Hubs - Dfferences
+
+### Hub
+
+
+### Bridges - Layer 2
+
+### Switches - Layer 2
+
+### Routers - Layer 3
+
+### Clouds - Layers 1-7
+
+### Evolution of Networking Devices and the OSI Layers
+
+### Paclet Flow Through Clouds
+
